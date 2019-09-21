@@ -1,0 +1,36 @@
+{
+    "title": "Go Modules中文网",
+    "author": "剑叔",
+    "description": "Go Modules中文网",
+    "language": "zh-hans",
+    "links": {
+        "sidebar": {
+            "Go语言中文网": "https://studygolang.com/",
+            "Go语言教程": "http://c.biancheng.net/golang/"
+        }
+    },
+    "plugins": [
+        "-search",
+        "search-pro",
+        "chapter-fold",
+        "splitter",
+        "ancre-navigation",
+        "-donate",
+        "tbfed-pagefooter"
+    ],
+    "pluginsConfig": {
+        "donate": {
+            "wechat": "http://random.image.zhiyishangzhi.com/my/wechatpay.png",
+            "alipay": "http://random.image.zhiyishangzhi.com/my/alipay.png",
+            "title": "",
+            "button": "打赏站长",
+            "alipayText": "支付宝打赏",
+            "wechatText": "微信打赏"
+        },
+        "tbfed-pagefooter": {
+            "copyright": "Copyright &copy gomosules.cn 2019",
+            "modify_label": "粤ICP备19101558号-2 该文件修订时间：",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
+        }
+    }
+}
