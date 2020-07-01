@@ -1,6 +1,6 @@
 {
     "title": "Go Modules中文网",
-    "author": "剑叔",
+    "author": "misitebao",
     "description": "Go Modules中文网",
     "language": "zh-hans",
     "links": {
@@ -29,7 +29,7 @@
         },
         "tbfed-pagefooter": {
             "copyright": "Copyright &copy gomosules.cn 2019",
-            "modify_label": "粤ICP备19101558号-2 该文件修订时间：",
+            "modify_label": "粤ICP备19101558号 该文件修订时间：",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
         }
     }
